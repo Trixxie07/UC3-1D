@@ -1,9 +1,14 @@
 # Caderno virtual - Lógica da Programação e Algoritmos
-Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os conceitos aprendidos e atiuvidades dessa unidade curricular. 
+Boas vindas! Este é meu caderno virtual. Aqui você deverá guardar todos os conceitos aprendidos e atiuvidades dessa unidade curricular. 
 
 
 ## Conteúdo Técnico -
+- STRING:
+- switchcase
+- Array
+  
 
+## Atividades desenvolvidas
 
 ## Switchcase: https://codepen.io/Trixxie07/pen/oNroEeW?editors=0012 
 nessa atividade aprendemos sobre switch case e montamos um sistema de farmacia
@@ -15,5 +20,3 @@ neesa atividade usamos o Array para fazer um sistema de uma loja de hortifruti.
 Nessa atividade tivemos que fazer um video para alguma rede social sobre o string e como ele funciona, em grupo.
 
 infelizmente faltei algumas atividades por causa de alguns problemas urgentes que eu tive que resolver.
-## Atividades desenvolvidas
-Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
