@@ -4,7 +4,10 @@ Boas vindas! Este é meu caderno virtual. Aqui você deverá guardar todos os co
 
 ## Conteúdo Técnico -
 - STRING:
+   strings são sequências de caracteres alfanuméricos (letras, números e/ou símbolos) amplamente usadas em programação.
+  
 - switchcase
+  
 - Array
   
 
