@@ -3,16 +3,19 @@ Boas vindas! Este é meu caderno virtual. Aqui você deverá guardar todos os co
 
 
 ## Conteúdo Técnico -
-- STRING:
+- STRING
    strings são sequências de caracteres alfanuméricos (letras, números e/ou símbolos) amplamente usadas em programação.
   
 - switchcase
-  ''j
+
+   ''j
   switch(expression) {
   case: volue= 1
   break;
  } ''
+
 - Array
+
 ''j
   let array1 = [ 1, 2, 3, 4, 5]
   ''
