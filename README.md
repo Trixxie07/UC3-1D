@@ -11,7 +11,7 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
   pergunstas e respostas, e varias variaveis.
 # ![download](https://github.com/user-attachments/assets/d0776d86-f05d-4bf2-a6c0-7fa521ef37e1)
 - Array:
-- Funciona como uma biblioteca
+- Funciona como uma biblioteca,da para guardar varios dados em uma array, como uma lista de livros.
 # ![download](https://github.com/user-attachments/assets/c383aa14-ec59-4bba-9e37-053802e7aa54)
 
 ## Atividades desenvolvidas
